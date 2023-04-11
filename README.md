@@ -1,6 +1,6 @@
-# Sust Cse Society 
+# Sust CSE Society 
 
-A Social media for an organization. 
+A social media for an organization. 
 
 ## Key Features
 
