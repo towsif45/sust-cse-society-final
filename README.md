@@ -1,4 +1,4 @@
-# Sust CSE Society 
+# SUST CSE Society 
 
 A social media for an organization. 
 
